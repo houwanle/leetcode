@@ -11,21 +11,21 @@ import java.util.HashMap;
 public class LongestSubString {
 
     public static void main(String[] args) {
-        String s = "asadsedrfd";
+//        String s = "asadsedrfd";
+        String s = "13212563";
         LongestSubString longestSubString = new LongestSubString();
 
         System.out.println(longestSubString.lengthOfLongestSubstring(s));
     }
 
-    public int lengthOfLongestSubstring(String s) {
 
+    public int lengthOfLongestSubstring(String s) {
         HashMap<Object, Integer> map = new HashMap<>();
         int num = 0;
         for (int i = 0,j=0; j < s.length(); j++) {
             char ch = s.charAt(j);
             if (map.containsKey(ch)) {
                 i = Math.max(map.get(ch), i);
-//                i = map.get(ch);  // 为什么不用这行代码？
             }
 
             num = Math.max(num, j-i+1);
