@@ -8,6 +8,7 @@
 - [leetcode_5：最长回文子串](./src/com/lele/leetcode/algorithms/LongestPalindrome.java)
 - [leetcode_6：Z字形变换](./src/com/lele/leetcode/algorithms/Convert.java)
 - [leetcode_7：整数反转](./src/com/lele/leetcode/algorithms/Reverse.java)
+- [leetcode_8：字符串转整数](./src/com/lele/leetcode/algorithms/MyAtoi.java)
 - [leetcode_215：数组中第K个最大元素](./src/com/lele/leetcode/algorithms/FindKthLargest.java)
 
 ## 树
