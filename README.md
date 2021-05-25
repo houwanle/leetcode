@@ -18,3 +18,6 @@
 
 ## 数学
 - [斐波拉契数列](./src/com/lele/math/Fibonacci.java)
+
+## 其他
+- [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
