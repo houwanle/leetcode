@@ -9,6 +9,8 @@
 - [leetcode_6：Z字形变换](./src/com/lele/leetcode/algorithms/Convert.java)
 - [leetcode_7：整数反转](./src/com/lele/leetcode/algorithms/Reverse.java)
 - [leetcode_8：字符串转整数](./src/com/lele/leetcode/algorithms/MyAtoi.java)
+- [leetcode_11：盛最多水的容器](./src/com/lele/leetcode/algorithms/MaxArea.java)
+- [leetcode_15：三数之和](./src/com/lele/leetcode/algorithms/ThreeSum.java)
 - [leetcode_215：数组中第K个最大元素](./src/com/lele/leetcode/algorithms/FindKthLargest.java)
 
 ## 树
