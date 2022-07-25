@@ -19,5 +19,9 @@
 ## 数学
 - [斐波拉契数列](./src/com/lele/math/Fibonacci.java)
 
+## MSB
+- [打印十进制数的32位二进制信息](./src/com/lele/msb/PrintBinary.java)
+
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
+
