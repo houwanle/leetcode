@@ -23,6 +23,7 @@
 - [打印十进制数的32位二进制信息](./src/com/lele/msb/PrintBinary.java)
 - [正整数1~N的阶乘之和](./src/com/lele/msb/SumOfFactorial.java)
 - [选择排序](./src/com/lele/msb/SelectionSort.java)
+- [冒泡排序](./src/com/lele/msb/BubbleSort.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
