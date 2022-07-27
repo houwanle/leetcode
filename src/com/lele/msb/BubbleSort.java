@@ -32,10 +32,10 @@ public class BubbleSort {
         }
     }
 
-    private static void swap(int[] arr, int i, int second) {
-        int tmp = arr[second];
-        arr[second] = arr[second-1];
-        arr[second-1] = tmp;
+    private static void swap(int[] arr, int i, int j) {
+        int tmp = arr[j];
+        arr[j] = arr[i];
+        arr[i] = tmp;
     }
 
     private static void printArray(int[] arr) {
