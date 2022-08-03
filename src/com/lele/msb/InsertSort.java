@@ -16,7 +16,7 @@ public class InsertSort {
         printArray(arr);
     }
 
-    private static void insertSort1(int[] arr) {
+    public static void insertSort1(int[] arr) {
         if (arr == null || arr.length < 2) {
             return;
         }
@@ -30,7 +30,7 @@ public class InsertSort {
         }
     }
 
-    private static void insertSort2(int[] arr) {
+    public static void insertSort2(int[] arr) {
         if (arr == null || arr.length < 2) {
             return;
         }
@@ -43,7 +43,7 @@ public class InsertSort {
     }
 
 
-    private static void swap(int[] arr, int i, int j) {
+    public static void swap(int[] arr, int i, int j) {
         int tmp = arr[j];
         arr[j] = arr[i];
         arr[i] = tmp;

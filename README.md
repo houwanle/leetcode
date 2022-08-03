@@ -27,6 +27,7 @@
 - [插入排序](./src/com/lele/msb/InsertSort.java)
 - [前缀和](./src/com/lele/msb/PreSum.java)
 - [随机数](./src/com/lele/msb/RandToRand.java)
+- [对数器](./src/com/lele/msb/Comp.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
