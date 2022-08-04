@@ -29,6 +29,7 @@
 - [随机数](./src/com/lele/msb/RandToRand.java)
 - [对数器](./src/com/lele/msb/Comp.java)
 - [二分法](./src/com/lele/msb/BSExist.java)
+- [有序数组中找到>=num最左的有序数组](./src/com/lele/msb/BSNearLeft.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
