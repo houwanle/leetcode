@@ -31,6 +31,7 @@
 - [二分法](./src/com/lele/msb/BSExist.java)
 - [有序数组中找到>=num最左的有序数组](./src/com/lele/msb/BSNearLeft.java)
 - [无序数组中返回局部最小值的索引](./src/com/lele/msb/BSAwesome.java)
+- [链表反转](./src/com/lele/msb/ReverseList.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
