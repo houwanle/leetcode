@@ -33,6 +33,7 @@
 - [无序数组中返回局部最小值的索引](./src/com/lele/msb/BSAwesome.java)
 - [链表反转](./src/com/lele/msb/ReverseList.java)
 - [用链表实现队列和栈](./src/com/lele/msb/LinkedListToQueueAndStack.java)
+- [双向链表实现双端队列](./src/com/lele/msb/DoubleLinkedListToDeque.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
