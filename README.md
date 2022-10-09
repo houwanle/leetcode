@@ -34,6 +34,7 @@
 - [链表反转](./src/com/lele/msb/ReverseList.java)
 - [用链表实现队列和栈](./src/com/lele/msb/LinkedListToQueueAndStack.java)
 - [双向链表实现双端队列](./src/com/lele/msb/DoubleLinkedListToDeque.java)
+- [K个节点组内逆序调整](./src/com/lele/msb/ReverseNodesInKGroup.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
