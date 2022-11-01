@@ -38,6 +38,7 @@
 - [两链表的值相加](./src/com/lele/msb/AddTwoNumbers.java)
 - [合并两个有序的链表](./src/com/lele/msb/MergeTwoSortedLinkedList.java)
 - [位图](./src/com/lele/msb/BitMap2.java)
+- [位运算（加减乘除）](./src/com/lele/msb/BitAddMinusMultiDiv.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)

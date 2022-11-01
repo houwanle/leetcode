@@ -23,13 +23,6 @@ public class BitMap2 {
         public void add(int num) {
             // num >> 6  等价于 num/64
             // num & 63 等价于 num % 64
-
-
-
-
-
-
-
             bits[num >> 6] |= (1L << (num & 63));
         }
 
