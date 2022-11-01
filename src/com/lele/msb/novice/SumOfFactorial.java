@@ -1,4 +1,4 @@
-package com.lele.msb;
+package com.lele.msb.novice;
 
 /**
  * @author: lele
