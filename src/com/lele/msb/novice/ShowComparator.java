@@ -81,7 +81,7 @@ public class ShowComparator {
 
     public static void printStudents(Student[] students) {
         for (int i = 0; i < students.length; i++) {
-            System.out.print(students[i].name + "," +students[i].id + "," + students[i].age);
+            System.out.print(students[i].name + "," +students[i].id + "," + students[i].age + ";");
         }
         System.out.println();
     }
