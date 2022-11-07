@@ -41,6 +41,7 @@
 - [位运算（加减乘除）](./src/com/lele/msb/novice/BitAddMinusMultiDiv.java)
 - [比较器](./src/com/lele/msb/novice/ShowComparator.java)
 - [优先级队列](./src/com/lele/msb/novice/ShowComparator2.java)
+- [合并多个有序链表](./src/com/lele/msb/novice/MergeKSortedLists.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
