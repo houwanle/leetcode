@@ -45,6 +45,7 @@
 - [二叉树递归遍历](./src/com/lele/msb/novice/TraversalBinaryTree.java)
 - [相同的树](./src/com/lele/msb/novice/SameTree.java)
 - [镜面树](./src/com/lele/msb/novice/SymmetricTree.java)
+- [二叉树的最大深度](./src/com/lele/msb/novice/MaximumDepthOfBinaryTree.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
