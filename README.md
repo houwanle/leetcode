@@ -48,6 +48,7 @@
 - [二叉树的最大深度](./src/com/lele/msb/novice/MaximumDepthOfBinaryTree.java)
 - [通过先序、中序构造二叉树](./src/com/lele/msb/novice/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
 - [二叉树按层遍历并收集节点](./src/com/lele/msb/novice/BinaryTreeLevelOrderTraversalII.java)
+- [平衡二叉树](./src/com/lele/msb/novice/BalanceBinaryTree.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
