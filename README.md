@@ -49,6 +49,7 @@
 - [通过先序、中序构造二叉树](./src/com/lele/msb/novice/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
 - [二叉树按层遍历并收集节点](./src/com/lele/msb/novice/BinaryTreeLevelOrderTraversalII.java)
 - [平衡二叉树](./src/com/lele/msb/novice/BalanceBinaryTree.java)
+- [搜索二叉树](./src/com/lele/msb/novice/IsBinarySearchTree.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
