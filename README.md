@@ -51,6 +51,7 @@
 - [平衡二叉树](./src/com/lele/msb/novice/BalanceBinaryTree.java)
 - [搜索二叉树](./src/com/lele/msb/novice/IsBinarySearchTree.java)
 - [路径总和](./src/com/lele/msb/novice/PathSum.java)
+- [收集达标路径和](./src/com/lele/msb/novice/PathSumII.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)

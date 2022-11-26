@@ -4,7 +4,8 @@ package com.lele.msb.novice;
  * @author: lele
  * @date: 2022/11/21 07:51
  * @description: 路径总和
- * leetcode 112   https://leetcode.cn/problems/path-sum/
+ * leetcode 112
+ * 测试链接：https://leetcode.com/problems/path-sum
  */
 
 public class PathSum {
