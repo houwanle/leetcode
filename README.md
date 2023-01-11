@@ -20,6 +20,8 @@
 - [斐波拉契数列](./src/com/lele/math/Fibonacci.java)
 
 ## MSB
+
+### Novice
 - [打印十进制数的32位二进制信息](./src/com/lele/msb/novice/PrintBinary.java)
 - [正整数1~N的阶乘之和](./src/com/lele/msb/novice/SumOfFactorial.java)
 - [选择排序](./src/com/lele/msb/novice/SelectionSort.java)
@@ -53,6 +55,7 @@
 - [路径总和](./src/com/lele/msb/novice/PathSum.java)
 - [收集达标路径和](./src/com/lele/msb/novice/PathSumII.java)
 - [归并排序](./src/com/lele/msb/novice/MergeSort.java)
+- [快速排序](./src/com/lele/msb/novice/PartitionAndQuickSort.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
