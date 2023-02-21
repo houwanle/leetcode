@@ -43,7 +43,8 @@ public class BSExist {
         int L = 0;
         int R = arr.length - 1;
         while (L <= R) {
-            int mid = (L + R) / 2;
+//            int mid = (L + R) / 2; 这样写会有溢出的风险
+            int mid = L + ((R - L) >> 1);
             if (arr[mid] == num) {
                 return true;
             } else if (arr[mid] < num) {
