@@ -40,7 +40,8 @@ public class BSNearLeft {
         int R = arr.length - 1;
         int ans = -1;
         while(L <= R) {
-            int mid = (L + R) / 2;
+//            int mid = (L + R) / 2; //这样写会有溢出风险
+            int mid = L + ((R - L) >> 1);
             if (arr[mid] >= num) {
                 ans = mid;
                 R = mid - 1;
