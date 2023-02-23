@@ -32,6 +32,7 @@
 - [对数器](./src/com/lele/msb/novice/Comp.java)
 - [二分法](./src/com/lele/msb/novice/BSExist.java)
 - [有序数组中找到>=num最左的有序数组](./src/com/lele/msb/novice/BSNearLeft.java)
+- [有序数组中找到<=num最右的位置](./src/com/lele/msb/novice/BSNearRight.java)
 - [无序数组中返回局部最小值的索引](./src/com/lele/msb/novice/BSAwesome.java)
 - [链表反转](./src/com/lele/msb/novice/ReverseList.java)
 - [用链表实现队列和栈](./src/com/lele/msb/novice/LinkedListToQueueAndStack.java)
