@@ -58,6 +58,9 @@
 - [归并排序](./src/com/lele/msb/novice/MergeSort.java)
 - [快速排序](./src/com/lele/msb/novice/PartitionAndQuickSort.java)
 
+## Basic
+- [统计一个十进制数中二进制1的个数](./src/com/lele/msb/basic/Bit1Counts.java)
+
 ## System
 - [不使用额外的变量交换两个变量的值](./src/com/lele/msb/system/SwapTwoValue.java)
 - [打印数组中出现奇数次偶数次的数](./src/com/lele/msb/system/EvenTimesOddTimes.java)
