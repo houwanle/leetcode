@@ -60,6 +60,7 @@
 
 ## Basic
 - [统计一个十进制数中二进制1的个数](./src/com/lele/msb/basic/Bit1Counts.java)
+- [删除单链表中给定的值](./src/com/lele/msb/basic/DeleteGivenValue.java)
 
 ## System
 - [不使用额外的变量交换两个变量的值](./src/com/lele/msb/system/SwapTwoValue.java)
