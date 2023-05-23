@@ -14,6 +14,7 @@
 - [leetcode_64：最小路径和](./src/com/lele/leetcode/algorithms/MinPathSum.java)
 - [leetcode_209：长度最小的子数组](./src/com/lele/leetcode/algorithms/MinSubArrayLen.java)
 - [leetcode_215：数组中第K个最大元素](./src/com/lele/leetcode/algorithms/FindKthLargest.java)
+- [leetcode_1209：删除字符串中的所有相邻重复项2](./src/com/lele/leetcode/algorithms/RemoveDuplicates.java)
 
 ## 树
 - [二叉树的前中后序遍历](./src/com/lele/datastructure/tree/BinaryTree.java)
