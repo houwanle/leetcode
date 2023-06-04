@@ -74,6 +74,7 @@
 - [字符串最后一个单词的长度](./src/com/lele/huawei/HJ1.java)
 - [计算某字符串出现次数](./src/com/lele/huawei/HJ2.java)
 - [字符串分隔](./src/com/lele/huawei/HJ4.java)
+- [进制转换](./src/com/lele/huawei/HJ5.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
