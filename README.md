@@ -76,6 +76,7 @@
 - [明明的随机数](./src/com/lele/huawei/HJ3.java)
 - [字符串分隔](./src/com/lele/huawei/HJ4.java)
 - [进制转换](./src/com/lele/huawei/HJ5.java)
+- [质数因子](./src/com/lele/huawei/HJ6.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
