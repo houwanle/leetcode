@@ -73,6 +73,7 @@
 ## 华为机试
 - [字符串最后一个单词的长度](./src/com/lele/huawei/HJ1.java)
 - [计算某字符串出现次数](./src/com/lele/huawei/HJ2.java)
+- [明明的随机数](./src/com/lele/huawei/HJ3.java)
 - [字符串分隔](./src/com/lele/huawei/HJ4.java)
 - [进制转换](./src/com/lele/huawei/HJ5.java)
 
