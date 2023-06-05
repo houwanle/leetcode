@@ -81,6 +81,7 @@
 - [合并表记录](./src/com/lele/huawei/HJ8.java)
 - [提取不重复的整数](./src/com/lele/huawei/HJ9.java)
 - [字符个数统计](./src/com/lele/huawei/HJ10.java)
+- [数字颠倒](./src/com/lele/huawei/HJ11.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
