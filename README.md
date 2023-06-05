@@ -79,6 +79,7 @@
 - [质数因子](./src/com/lele/huawei/HJ6.java)
 - [取近似值](./src/com/lele/huawei/HJ7.java)
 - [合并表记录](./src/com/lele/huawei/HJ8.java)
+- [提取不重复的整数](./src/com/lele/huawei/HJ9.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
