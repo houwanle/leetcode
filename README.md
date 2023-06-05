@@ -78,6 +78,7 @@
 - [进制转换](./src/com/lele/huawei/HJ5.java)
 - [质数因子](./src/com/lele/huawei/HJ6.java)
 - [取近似值](./src/com/lele/huawei/HJ7.java)
+- [合并表记录](./src/com/lele/huawei/HJ8.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
