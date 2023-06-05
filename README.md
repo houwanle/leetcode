@@ -85,6 +85,7 @@
 - [字符串反转](./src/com/lele/huawei/HJ12.java)
 - [句子逆序](./src/com/lele/huawei/HJ13.java)
 - [字符串排序](./src/com/lele/huawei/HJ14.java)
+- [求int型正整数在内存中存储时1的个数](./src/com/lele/huawei/HJ15.java)
 
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
