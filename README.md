@@ -25,7 +25,7 @@
 
 ## MSB
 
-### Novice
+### Novice(新手)
 - [打印十进制数的32位二进制信息](./src/com/lele/msb/novice/PrintBinary.java)
 - [正整数1~N的阶乘之和](./src/com/lele/msb/novice/SumOfFactorial.java)
 - [选择排序](./src/com/lele/msb/novice/SelectionSort.java)
@@ -62,11 +62,11 @@
 - [归并排序](./src/com/lele/msb/novice/MergeSort.java)
 - [快速排序](./src/com/lele/msb/novice/PartitionAndQuickSort.java)
 
-### Basic
+### Basic(基础)
 - [统计一个十进制数中二进制1的个数](./src/com/lele/msb/basic/Bit1Counts.java)
 - [删除单链表中给定的值](./src/com/lele/msb/basic/DeleteGivenValue.java)
 
-### System
+### System(体系)
 - [不使用额外的变量交换两个变量的值](./src/com/lele/msb/system/SwapTwoValue.java)
 - [打印数组中出现奇数次偶数次的数](./src/com/lele/msb/system/EvenTimesOddTimes.java)
 
