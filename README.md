@@ -87,6 +87,11 @@
 - [字符串排序](./src/com/lele/huawei/HJ14.java)
 - [求int型正整数在内存中存储时1的个数](./src/com/lele/huawei/HJ15.java)
 
+
+## 工具类
+- [对数器](./src/com/lele/utils/LogarithmizerUtil.java)
+
+
 ## 其他
 - [二分查找](./src/com/lele/datastructure/search/BinarySearch.java)
 - [多线程售票](./src/com/lele/thread/SellTickets.java)
