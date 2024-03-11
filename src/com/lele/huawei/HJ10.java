@@ -21,9 +21,21 @@ public class HJ10 {
         String str = sc.nextLine();
         HashSet<Character> hs = new HashSet<>(str.length());
 
+        // 过滤掉输入的字符串中 非字母 的字符
+        str = keepLettersOnly(str);
+
         for (int i = 0; i < str.length(); i++) {
             hs.add(str.charAt(i));
         }
         System.out.println(hs.size());
+    }
+
+    /**
+     * 仅保留输入字符串中的 字母
+     * @param str  输入的字符串
+     * @return  仅含字母的字符串
+     */
+    private static String keepLettersOnly(String str) {
+        return str.replaceAll("[^a-zA-Z]", "");
     }
 }
