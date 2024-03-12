@@ -11,7 +11,6 @@ import static com.lele.base.ListNode.printListByHead;
  */
 
 public class AddTwoNumbers {
-
     public static void main(String[] args) {
         ListNode l1 = new ListNode(2);
         ListNode l2 = new ListNode(4);
@@ -28,12 +27,9 @@ public class AddTwoNumbers {
         l5.next = l6;
         l6.next = null;
 
-        AddTwoNumbers test = new AddTwoNumbers();
-
-        ListNode head = test.addTwoNumbers(l1, l4);
+        ListNode head = addTwoNumbers(l1, l4);
 
         printListByHead(head);
-
     }
 
 
@@ -43,7 +39,7 @@ public class AddTwoNumbers {
      * @param l2
      * @return
      */
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode root = new ListNode(0);
         ListNode current = root;
         int temp = 0;
