@@ -1,21 +1,38 @@
-## leetcode 题解
+## leetcode 算法题解
 > java 语言实现
 
-- [leetcode_1：两数之和](./src/com/lele/leetcode/algorithms/TwoSum.java)
-- [leetcode_2：两数相加](./src/com/lele/leetcode/algorithms/AddTwoNumbers.java)
-- [leetcode_3：无重复字符串最长子串](./src/com/lele/leetcode/algorithms/LongestSubString.java)
-- [leetcode_4：寻找两个正序数组的中位数](./src/com/lele/leetcode/algorithms/FindMedianSortedArrays.java)
-- [leetcode_5：最长回文子串](./src/com/lele/leetcode/algorithms/LongestPalindrome.java)
-- [leetcode_6：Z字形变换](./src/com/lele/leetcode/algorithms/Convert.java)
-- [leetcode_7：整数反转](./src/com/lele/leetcode/algorithms/Reverse.java)
-- [leetcode_8：字符串转整数](./src/com/lele/leetcode/algorithms/MyAtoi.java)
-- [leetcode_11：盛最多水的容器](./src/com/lele/leetcode/algorithms/MaxArea.java)
-- [leetcode_15：三数之和](./src/com/lele/leetcode/algorithms/ThreeSum.java)
-- [leetcode_20：有效的括号](./src/com/lele/leetcode/algorithms/IsValid.java)
-- [leetcode_64：最小路径和](./src/com/lele/leetcode/algorithms/MinPathSum.java)
-- [leetcode_209：长度最小的子数组](./src/com/lele/leetcode/algorithms/MinSubArrayLen.java)
-- [leetcode_215：数组中第K个最大元素](./src/com/lele/leetcode/algorithms/FindKthLargest.java)
-- [leetcode_1209：删除字符串中的所有相邻重复项2](./src/com/lele/leetcode/algorithms/RemoveDuplicates.java)
+### 链表
+- [leetcode_2：两数相加](./src/com/lele/leetcode/AddTwoNumbers.java)
+- [leetcode_21：合并两个有序链表](./src/com/lele/leetcode/MergeTwoLists.java)
+
+### 数组
+
+### 二叉树
+
+### 回溯
+
+### 递归
+
+### 滑动窗口
+
+### 动态规划
+
+
+- [leetcode_1：两数之和](./src/com/lele/leetcode/TwoSum.java)
+
+- [leetcode_3：无重复字符串最长子串](./src/com/lele/leetcode/LongestSubString.java)
+- [leetcode_4：寻找两个正序数组的中位数](./src/com/lele/leetcode/FindMedianSortedArrays.java)
+- [leetcode_5：最长回文子串](./src/com/lele/leetcode/LongestPalindrome.java)
+- [leetcode_6：Z字形变换](./src/com/lele/leetcode/Convert.java)
+- [leetcode_7：整数反转](./src/com/lele/leetcode/Reverse.java)
+- [leetcode_8：字符串转整数](./src/com/lele/leetcode/MyAtoi.java)
+- [leetcode_11：盛最多水的容器](./src/com/lele/leetcode/MaxArea.java)
+- [leetcode_15：三数之和](./src/com/lele/leetcode/ThreeSum.java)
+- [leetcode_20：有效的括号](./src/com/lele/leetcode/IsValid.java)
+- [leetcode_64：最小路径和](./src/com/lele/leetcode/MinPathSum.java)
+- [leetcode_209：长度最小的子数组](./src/com/lele/leetcode/MinSubArrayLen.java)
+- [leetcode_215：数组中第K个最大元素](./src/com/lele/leetcode/FindKthLargest.java)
+- [leetcode_1209：删除字符串中的所有相邻重复项2](./src/com/lele/leetcode/RemoveDuplicates.java)
 
 ## 树
 - [二叉树的前中后序遍历](./src/com/lele/datastructure/tree/BinaryTree.java)

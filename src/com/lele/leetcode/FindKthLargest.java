@@ -1,6 +1,4 @@
-package com.lele.leetcode.algorithms;
-
-import java.util.Arrays;
+package com.lele.leetcode;
 
 /**
  * @author: lele

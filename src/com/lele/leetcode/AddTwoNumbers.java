@@ -1,4 +1,8 @@
-package com.lele.leetcode.algorithms;
+package com.lele.leetcode;
+
+import com.lele.base.ListNode;
+
+import static com.lele.base.ListNode.printListByHead;
 
 /**
  * @author: lele
@@ -32,25 +36,6 @@ public class AddTwoNumbers {
 
     }
 
-    /**
-     * 根据头结点打印链表
-     * @param head
-     */
-    public static void printListByHead(ListNode head) {
-        if (head == null) {
-            return;
-        }
-
-        ListNode temp = head;
-        while(true) {
-            if (temp == null) {
-                break;
-            }
-
-            System.out.println(temp.val);
-            temp = temp.next;
-        }
-    }
 
     /**
      * 两数相加（两联表从左往右依次相加，根据头结点输出相加后的结果）
@@ -97,21 +82,3 @@ public class AddTwoNumbers {
     }
 }
 
-
-class ListNode {
-    int val;
-    ListNode next;
-
-    public ListNode() {
-    }
-
-    public ListNode(int val) {
-        this.val = val;
-    }
-
-    public ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-
-}
