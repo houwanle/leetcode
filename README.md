@@ -4,6 +4,7 @@
 ### 链表
 - [leetcode_2：两数相加](./src/com/lele/leetcode/AddTwoNumbers.java)
 - [leetcode_21：合并两个有序链表](./src/com/lele/leetcode/MergeTwoLists.java)
+- [leetcode_86：分隔链表](./src/com/lele/leetcode/Partition.java)
 
 ### 数组
 

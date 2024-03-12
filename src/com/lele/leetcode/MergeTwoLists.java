@@ -2,8 +2,6 @@ package com.lele.leetcode;
 
 import com.lele.base.ListNode;
 
-import static com.lele.base.ListNode.printListByHead;
-
 /**
  * @author: lele
  * @date: 2024/3/12 17:31
@@ -38,7 +36,7 @@ public class MergeTwoLists {
         ListNode listNode = mergeTwoLists(l1, l4);
 
         // 根据头结点打印链表
-        printListByHead(listNode);
+        ListNode.printListByHead(listNode);
     }
 
     /**

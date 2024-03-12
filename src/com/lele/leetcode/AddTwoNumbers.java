@@ -2,7 +2,6 @@ package com.lele.leetcode;
 
 import com.lele.base.ListNode;
 
-import static com.lele.base.ListNode.printListByHead;
 
 /**
  * @author: lele
@@ -29,7 +28,7 @@ public class AddTwoNumbers {
 
         ListNode head = addTwoNumbers(l1, l4);
 
-        printListByHead(head);
+        ListNode.printListByHead(head);
     }
 
 
