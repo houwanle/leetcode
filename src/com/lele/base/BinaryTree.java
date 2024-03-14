@@ -14,7 +14,7 @@ import java.util.Queue;
 public class BinaryTree {
 
     /**
-     * 二叉树前序遍历-递归实现
+     * 二叉树的前序遍历-递归实现
      * @param root
      * @return
      */
@@ -31,7 +31,7 @@ public class BinaryTree {
     }
 
     /**
-     * 二叉树中序遍历-递归实现
+     * 二叉树的中序遍历-递归实现
      * @param root
      * @return
      */
@@ -48,7 +48,7 @@ public class BinaryTree {
     }
 
     /**
-     * 二叉树后序遍历-递归实现
+     * 二叉树的后序遍历-递归实现
      * @param root
      * @return
      */
@@ -65,23 +65,21 @@ public class BinaryTree {
     }
 
     /**
-     * 层序遍历
+     * 二叉树的层序遍历
      * @param root
      * @return
      */
-    public static List<List<Integer>> levelOrder(TreeNode root) {
+    public static List<Integer> levelOrder(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
-        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> res = new ArrayList<>();
         if (root != null) queue.add(root);
         while (!queue.isEmpty()) {
-            List<Integer> tmp = new ArrayList<>();
             for (int i = queue.size(); i > 0; i--) {
                 TreeNode node = queue.poll();
-                tmp.add(node.val);
+                res.add(node.val);
                 if (node.left != null) queue.add(node.left);
                 if (node.right != null) queue.add(node.right);
             }
-            res.add(tmp);
         }
         return res;
     }
