@@ -3,7 +3,7 @@ package com.lele.base;
 /**
  * @author: lele
  * @date: 2024/3/12 17:36
- * @description: ListNode 基本类
+ * @description: ListNode 链表结点类
  */
 
 public class ListNode {
