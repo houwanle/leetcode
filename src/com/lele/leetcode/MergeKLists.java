@@ -18,20 +18,28 @@ public class MergeKLists {
 
     public static void main(String[] args) {
 
+//        int[] arr1 = {1,4,5}, arr2 = {1, 3, 4}, arr3 = {2, 6};
+//
+//        ListNode listNode1 = ListNode.generateLinkedList(arr1);
+//        ListNode listNode2 = ListNode.generateLinkedList(arr2);
+//        ListNode listNode3 = ListNode.generateLinkedList(arr3);
+//
+//        ListNode[] listNodes = new ListNode[3];
+
     }
 
     private static ListNode mergeKLists(ListNode[] lists) {
         if (lists.length == 0) {
             return null;
         }
-
+        // 虚拟头结点
         ListNode head = new ListNode(-1);
         ListNode p = head;
 
         // 优先级队列，最小堆
         PriorityQueue<ListNode> pq = new PriorityQueue<>(
                 lists.length, (a, b) -> (a.val - b.val));
-
+        // 将k个链表的头结点加入最小堆
         for (ListNode list : lists) {
             if (list != null) {
                 pq.add(list);
@@ -39,6 +47,7 @@ public class MergeKLists {
         }
 
         while (!pq.isEmpty()) {
+            // 获取最小节点，接到结果链表中
             ListNode node = pq.poll();
             p.next = node;
             if (node.next != null) {

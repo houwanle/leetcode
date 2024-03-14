@@ -24,6 +24,26 @@ public class ListNode {
     }
 
     /**
+     * 生成链表
+     * @param data 输入的数组
+     * @return 链表的头结点
+     */
+    public static ListNode generateLinkedList(int[] data) {
+        if (data == null || data.length == 0) {
+            return null;
+        }
+
+        ListNode head = new ListNode(data[0]);
+        ListNode current = head;
+
+        for (int i = 1; i < data.length; i++) {
+            current.next = new ListNode(data[i]);
+            current = current.next;
+        }
+        return head;
+    }
+
+    /**
      * 根据头结点打印链表
      * @param head
      */
