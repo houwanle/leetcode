@@ -12,6 +12,7 @@
 ### 二叉树
 - [leetcode_94：二叉树的中序遍历](./src/com/lele/leetcode/InorderTraversal.java)
 - [leetcode_104：二叉树的最大深度](./src/com/lele/leetcode/MaxDepth.java)
+- [leetcode_226：翻转二叉树](./src/com/lele/leetcode/InvertTree.java)
 
 ### 回溯
 
