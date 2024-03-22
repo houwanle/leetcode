@@ -116,6 +116,11 @@
 - [求int型正整数在内存中存储时1的个数](./src/com/lele/huawei/HJ15.java)
 
 
+## 牛客网
+- [NC_61：两数之和](./src/com/lele/leetcode/TwoSum.java)
+- [NC_68：跳台阶](./src/com/lele/nowcoder/JumpFloor.java)
+
+
 ## 工具类
 - [对数器](./src/com/lele/utils/LogarithmizerUtil.java)
 
