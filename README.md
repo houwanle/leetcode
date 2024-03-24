@@ -1,6 +1,9 @@
 ## leetcode 算法题解
 > java 语言实现
 
+### 哈希
+- [leetcode_1：两数之和](./src/com/lele/leetcode/TwoSum.java)
+
 ### 链表
 - [leetcode_2：两数相加](./src/com/lele/leetcode/AddTwoNumbers.java)
 - [leetcode_21：合并两个有序链表](./src/com/lele/leetcode/MergeTwoLists.java)
@@ -29,7 +32,6 @@
 ### 动态规划
 
 
-- [leetcode_1：两数之和](./src/com/lele/leetcode/TwoSum.java)
 
 - [leetcode_3：无重复字符串最长子串](./src/com/lele/leetcode/LongestSubString.java)
 - [leetcode_4：寻找两个正序数组的中位数](./src/com/lele/leetcode/FindMedianSortedArrays.java)
