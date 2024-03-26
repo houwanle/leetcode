@@ -7,7 +7,9 @@
 - [leetcode_128：最长连续序列](./src/com/lele/leetcode/LongestConsecutive.java)
 
 ### 双指针
-- [leecode_283：移动零](./src/com/lele/leetcode/MoveZeroes.java)
+- [leetcode_11：盛最多水的容器](./src/com/lele/leetcode/MaxArea.java)
+- [leetcode_283：移动零](./src/com/lele/leetcode/MoveZeroes.java)
+
 
 ### 链表
 - [leetcode_2：两数相加](./src/com/lele/leetcode/AddTwoNumbers.java)
@@ -44,7 +46,7 @@
 - [leetcode_6：Z字形变换](./src/com/lele/leetcode/Convert.java)
 - [leetcode_7：整数反转](./src/com/lele/leetcode/Reverse.java)
 - [leetcode_8：字符串转整数](./src/com/lele/leetcode/MyAtoi.java)
-- [leetcode_11：盛最多水的容器](./src/com/lele/leetcode/MaxArea.java)
+
 - [leetcode_15：三数之和](./src/com/lele/leetcode/ThreeSum.java)
 - [leetcode_20：有效的括号](./src/com/lele/leetcode/IsValid.java)
 - [leetcode_64：最小路径和](./src/com/lele/leetcode/MinPathSum.java)
