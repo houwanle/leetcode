@@ -4,6 +4,7 @@
 ### 哈希
 - [leetcode_1：两数之和](./src/com/lele/leetcode/TwoSum.java)
 - [leetcode_49：字母异位词分组](./src/com/lele/leetcode/GroupAnagrams.java)
+- [leetcode_128：最长连续序列](./src/com/lele/leetcode/LongestConsecutive.java)
 
 ### 链表
 - [leetcode_2：两数相加](./src/com/lele/leetcode/AddTwoNumbers.java)
