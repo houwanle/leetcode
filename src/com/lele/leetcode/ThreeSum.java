@@ -8,20 +8,26 @@ import java.util.List;
  * @author: lele
  * @date: 2021/5/25 16:57
  * @description: 三数之和
+ * 描述：给你一个整数数组 nums ，判断是否存在三元组 [nums[i], nums[j], nums[k]] 满足 i != j、i != k 且 j != k ，
+ * 同时还满足 nums[i] + nums[j] + nums[k] == 0 。请你返回所有和为 0 且不重复的三元组。
+ *
+ * 注意：答案中不可以包含重复的三元组。
+ *
+ * 输入：nums = [-1,0,1,2,-1,-4]
+ * 输出：[[-1,-1,2],[-1,0,1]]
  */
 
 public class ThreeSum {
 
     public static void main(String[] args) {
-        ThreeSum threeSum = new ThreeSum();
 
         int[] nums = {-1,0,1,2,-1,-4};
 
-        System.out.println(threeSum.threeSum(nums));
+        System.out.println(threeSum(nums));
 
     }
 
-    public List<List<Integer>> threeSum(int[] nums) {
+    public static List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> resList = new ArrayList<>();
         int len = nums.length;
         if (nums == null || len < 3) {
@@ -33,7 +39,7 @@ public class ThreeSum {
 
         for (int i = 0; i < len; i++) {
             if (nums[i] > 0) {
-                break;
+                break; // 如果当前数字大于0，则三数之和一定大于0，所以结束循环
             }
 
             if (i > 0 && nums[i] == nums[i-1]) {

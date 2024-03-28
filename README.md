@@ -8,6 +8,7 @@
 
 ### 双指针
 - [leetcode_11：盛最多水的容器](./src/com/lele/leetcode/MaxArea.java)
+- [leetcode_15：三数之和](./src/com/lele/leetcode/ThreeSum.java)
 - [leetcode_283：移动零](./src/com/lele/leetcode/MoveZeroes.java)
 
 
@@ -47,7 +48,7 @@
 - [leetcode_7：整数反转](./src/com/lele/leetcode/Reverse.java)
 - [leetcode_8：字符串转整数](./src/com/lele/leetcode/MyAtoi.java)
 
-- [leetcode_15：三数之和](./src/com/lele/leetcode/ThreeSum.java)
+
 - [leetcode_20：有效的括号](./src/com/lele/leetcode/IsValid.java)
 - [leetcode_64：最小路径和](./src/com/lele/leetcode/MinPathSum.java)
 - [leetcode_209：长度最小的子数组](./src/com/lele/leetcode/MinSubArrayLen.java)
