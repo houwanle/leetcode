@@ -9,6 +9,7 @@
 ### 双指针
 - [leetcode_11：盛最多水的容器](./src/com/lele/leetcode/MaxArea.java)
 - [leetcode_15：三数之和](./src/com/lele/leetcode/ThreeSum.java)
+- [leetcode_42：接雨水](./src/com/lele/leetcode/Trap.java)
 - [leetcode_283：移动零](./src/com/lele/leetcode/MoveZeroes.java)
 
 
