@@ -12,6 +12,9 @@
 - [leetcode_42：接雨水](./src/com/lele/leetcode/Trap.java)
 - [leetcode_283：移动零](./src/com/lele/leetcode/MoveZeroes.java)
 
+### 滑动窗口
+- [leetcode_3：无重复字符串最长子串](./src/com/lele/leetcode/LengthOfLongestSubstring.java)
+
 
 ### 链表
 - [leetcode_2：两数相加](./src/com/lele/leetcode/AddTwoNumbers.java)
@@ -36,13 +39,12 @@
 
 ### 递归
 
-### 滑动窗口
 
 ### 动态规划
 
 
 
-- [leetcode_3：无重复字符串最长子串](./src/com/lele/leetcode/LongestSubString.java)
+
 - [leetcode_4：寻找两个正序数组的中位数](./src/com/lele/leetcode/FindMedianSortedArrays.java)
 - [leetcode_5：最长回文子串](./src/com/lele/leetcode/LongestPalindrome.java)
 - [leetcode_6：Z字形变换](./src/com/lele/leetcode/Convert.java)
